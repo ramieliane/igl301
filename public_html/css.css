@@ -1,0 +1,79 @@
+
+a{
+#header
+text-decoration:none;
+color:white;
+margin-right:66px;
+font-size:13px
+
+
+}
+#imgpos
+.bottomimg{position:absolute; top:0; left:0; z-index:1}
+
+.topimg{position:absolute; top:0; left:0; z-index:2}
+
+.div1{background-color:RGB(146,154,162);
+
+width:850px;margin-top:140px;margin-left:300px;overflow:hidden;height:250px
+
+}
+#li.img.div.la.
+li{font-size:13px;}
+li a {text-decoration:underline}
+.imglogo{ margin-left:300px; width:250px;}
+
+.imghome2{height:200px;width:850px;margin-left:300px }
+
+.imghouse{height:200px;width:200px;float:left;margin-top:10px;margin-right:10px}
+
+.divwelcome{margin-top:10px;margin-left:15px; background-color:RGB(143,151,160);width:800px;height:200px;font-size:20px;color:white;}
+
+.divserv{margin-left:300px;width:200px;float:left;color:white}
+
+.divL{margin-left:300px;width:200px;color:white}
+
+.imgcontact{height:100px;width:200px;float:left; margin-top:10px;margin-right:20px}
+
+.divvilla{margin-left:300px ;color:white;width:800px;margin-top:15px}
+
+.lang:hover{border:orange solid}
+
+
+
+p{color:white; font-size:23px;margin-left:10px}
+td{vertical-align:top;font-size:13px;color:white;padding-left:10px}
+body{background-color:rgb(154,163,172);
+
+
+margin:auto;
+padding:auto;
+
+font-family:Trebuchet MS;
+
+}
+#dib
+.div3{width:800px;margin-top:150px;margin-left:300px;overflow:hidden;height:250px}
+.div2{
+width:800px;margin-top:120px;margin-left:300px;overflow:hidden;height:250px
+}
+a:hover   {color:orange;  }
+.header {
+    background-color:rgb(124,133,143);
+    color:white;
+    text-align:center;
+    padding:1px;
+}
+
+.section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+.footer {
+    background-color:rgb(124,133,143);
+    color:white;
+    clear:both;
+  
+   padding:10px;	 	 
+}
