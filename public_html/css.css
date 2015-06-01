@@ -1,5 +1,6 @@
 
 a{
+<<<<<<< HEAD
 #header
 text-decoration:none;
 color:white;
@@ -76,4 +77,10 @@ a:hover   {color:orange;  }
     clear:both;
   
    padding:10px;	 	 
+=======
+text-decoration:none;
+color:white;
+margin-right:66px;
+font-size:13px
+>>>>>>> origin/master
 }
